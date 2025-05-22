@@ -46,7 +46,6 @@ included in the project:
 4. Commit your changes in logical chunks. Use Git's
    [interactive rebase](https://help.github.com/articles/about-git-rebase/)
    feature to tidy up your commits before making them public.
-
 5. Locally merge (or rebase) the upstream development branch into your topic branch:
 
    ```bash
