@@ -47,7 +47,6 @@ IncludeCategories:
   - Regex:           '^<.*\.h(pp)?>'
     Priority:        1
   - Regex:           '^<.*'
-    Priority:        2
   - Regex:           '.*'
 IndentCaseLabels: true
 IndentWidth:     2
