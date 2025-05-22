@@ -41,7 +41,6 @@ included in the project:
 3. Create a new topic branch (off the main project development branch) to
    contain your feature, change, or fix:
 
-   ```bash
    git checkout -b <topic-branch-name>
    ```
 
