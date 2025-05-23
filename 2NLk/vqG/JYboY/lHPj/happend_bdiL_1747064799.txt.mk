@@ -1,4 +1,3 @@
-LOCAL_PATH := $(call my-dir)
 
 ifneq ($(filter hero hero2lte, $(TARGET_DEVICE)),)
 
