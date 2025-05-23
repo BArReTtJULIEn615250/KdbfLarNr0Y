@@ -18,7 +18,6 @@ included in the project:
    fork, and configure the remotes:
 
    ```bash
-   # Clone your fork of the repo into the current directory
    git clone https://github.com/<your-username>/integration-tests-a-z.git
    # Navigate to the newly cloned directory
    cd html5-boilerplate
