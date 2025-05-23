@@ -27,7 +27,6 @@ included in the project:
    ```
 
 2. If you cloned a while ago, get the latest changes from upstream:
-
    ```bash
    git checkout master
    git pull upstream master
