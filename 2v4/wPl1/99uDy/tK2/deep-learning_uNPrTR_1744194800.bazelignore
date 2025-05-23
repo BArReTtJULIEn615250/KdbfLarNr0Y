@@ -1,2 +1,1 @@
-# We do not use this library in our Bazel build. It contains an
 # infinitely recursing symlink that makes Bazel very unhappy.
